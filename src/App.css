@@ -1,0 +1,20 @@
+/* App.css */
+
+.app-container {
+  min-height: 100vh;
+  padding: 3rem 1.5rem;
+  background: linear-gradient(to right, #e0f7fa, #ffffff); /* soft gradient */
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+
+.app-inner {
+  background-color: #ffffff;
+  padding: 2.5rem;
+  border-radius: 12px;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.05);
+  max-width: 900px;
+  width: 100%;
+}
+
